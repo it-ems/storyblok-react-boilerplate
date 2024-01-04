@@ -42,4 +42,4 @@ Set the preview domain in <strong>Storyblok</strong> to `http://localhost:3000/`
  ## Resources
 
 - [React Docs](https://reactjs.org/docs/getting-started.html)
-- [Storyblok Tutorial](https://www.storyblok.com/tp/add-a-headless-cms-to-react-in-5-minutes )
+- [Storyblok Tutorial](https://www.storyblok.com/tp/add-a-headless-cms-to-react-in-5-minutes )"# websofty.v1" 
