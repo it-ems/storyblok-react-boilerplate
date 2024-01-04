@@ -9,7 +9,7 @@ function App() {
 
   const story = useStoryblok(slug, { version: "draft" });
   if (!story || !story.content) {
-    return <div>Loading...</div>;
+    return <div>Loading....</div>;
   }
 
   return <StoryblokComponent blok={story.content} />;
